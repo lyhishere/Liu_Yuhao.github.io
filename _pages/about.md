@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Liu Yuhao, a fourth-year PhD student in Financial Mathematics in the Chinese University of Hong Kong, Shenzhen. I focus on the aear of derivatives pricing, quantitative trading, portfolio optimization and the application of deep Learning and reinforcement learning in finance. My supervisor is [Prof. Gongqiu Zhang](https://sse.cuhk.edu.cn/faculty/zhanggongqiu). 
+Hi! I am Liu Yuhao, a fourth-year PhD student in Financial Mathematics in the Chinese University of Hong Kong, Shenzhen. I focus on the aear of derivatives pricing, quantitative trading, portfolio optimization and the application of deep Learning and reinforcement learning in finance. My supervisor is [Prof. Gongqiu Zhang](https://sse.cuhk.edu.cn/faculty/zhanggongqiu). I obtain my Master Degree in the Oxford University, and my Bachelor degree in Shenzhen University.
 
 A data-driven personal website
 ======
